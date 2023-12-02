@@ -1,0 +1,18 @@
+This is a cost effective alternative to the expensive real time medium speed digital oscilloscope . 
+However , it is shown that this method has some significant limitations , (1) it can measure
+the jitter only up to half of the intermediate frequency obtained from the down
+shift of the amplified radio frequency with the local oscillator which is less than
+the Nyquist frequency of the dongle and (2) if the number of samples per cycle
+captured from this dongle is not sufficient then the jitter extraction does not
+succeed since the signal is not properly ( smoothly ) represented . 
+Finally , the periodic and random jitter influence on range measurements 
+made with AMCW range imaging cameras are studied . An analytical model
+for the periodic jitter on the range measurements under the heterodyne and
+homodyne operations in AMCW ToF range imaging cameras is obtained in
+the frequency domain . The analytical model is tested through simulated data
+with various parameters in the system . The product of angular modulation
+frequency of the camera and the amplitude of the periodic jitter is a characteristic
+parameter for the phase error due to the presence of periodic jitter .
+We found that for currently available AMCW cameras ( modulation frequency
+less than 100 MHz ) , neither periodic nor random jitter has a measurable effect
+on range measurement . 
